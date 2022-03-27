@@ -1,0 +1,5 @@
+create a file and a class to manipulate really big integers that cannot be stored in the ammount of space avalaible for integers in C++(ie abt 64bits)
+
+Huge Int functions like 
+The BigInteger  Class In java
+and will be named the same
